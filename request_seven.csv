@@ -1,0 +1,335 @@
+sport,discipline,nb_editions
+Athletics,5 miles,3
+Athletics,"3,200 metres Steeplechase",1
+Athletics,"3,500 metres Race Walk",1
+Athletics,10 miles Race Walk,1
+Athletics,Standing High Jump,5
+Athletics,Standing Long Jump,5
+Athletics,10 kilometres Race Walk,7
+Athletics,Standing Triple Jump,2
+Athletics,Pentathlon,8
+Athletics,80 metres Hurdles,8
+Athletics,"3,000 metres Race Walk",1
+Athletics,6-hour race,1
+Athletics,"2,500 metres Steeplechase",1
+Athletics,"1,500 metres Wheelchair",6
+Athletics,800 metres Wheelchair,6
+Athletics,60 metres,2
+Athletics,200 metres Hurdles,2
+Athletics,100 yards,1
+Athletics,120 yards Hurdles,1
+Athletics,1 mile,1
+Athletics,2 miles,1
+Athletics,56-pound Weight Throw,2
+Athletics,220 yards,1
+Athletics,440 yards,1
+Athletics,880 yards,1
+Athletics,"1,600 metres Medley Relay",1
+Athletics,"4,000 metres Steeplechase",1
+Athletics,3 miles,1
+Athletics,"2,590 metres Steeplechase",1
+Athletics,Stone Throw,1
+Athletics,All-Around Championship,1
+Athletics,Special Scratch Pole Vault #1,1
+Athletics,Special Scratch Pole Vault #2,1
+Athletics,50 yards,1
+Athletics,220 yards Hurdles,1
+Athletics,4 × 440 yards Relay,1
+Athletics,4 miles,1
+Athletics,Baseball Throw,1
+Athletics,Ball Throw for Accuracy,1
+Athletics,60 yards,1
+Diving,Synchronized Platform,6
+Diving,Synchronized Springboard,6
+Diving,Plain High,3
+Rugby,Rugby,4
+Shooting,Air Pistol,9
+Shooting,Military Rifle,5
+Shooting,Unknown Event,2
+Shooting,Double Trap,6
+Shooting,Dueling Pistol,1
+Shooting,Military Pistol,2
+Shooting,Smal-Bore Rifle,1
+Shooting,Muzzle-Loading Pistol,1
+Swimming,400 metres Breaststroke,2
+Swimming,50 metres Freestyle,9
+Swimming,"1,000 metres Freestyle",1
+Swimming,"4,000 metres Freestyle",1
+Swimming,500 metres Freestyle,1
+Swimming,"1,200 metres Freestyle",1
+Swimming,Underwater Swimming,1
+Swimming,200 metres Obstacle Course,1
+Swimming,100 metres Freestyle For Sailors,1
+Swimming,100 yards,1
+Swimming,1 mile,1
+Swimming,300 metres Freestyle,1
+Swimming,220 yards,1
+Swimming,440 yards,1
+Swimming,880 yards,1
+Swimming,50 yards Freestyle,1
+Swimming,100 yards Freestyle,1
+Swimming,220 yards Freestyle,1
+Swimming,440 yards Freestyle,1
+Swimming,880 yards Freestyle,1
+Swimming,1 mile Freestyle,1
+Swimming,200 metres Team Swimming,1
+Swimming,4 × 50 yards Freestyle Relay,1
+Swimming,100 yards Backstroke,1
+Swimming,440 yards Breaststroke,1
+Swimming,Plunge For Distance,1
+Rowing,Lightweight Double Sculls,7
+Rowing,Lightweight Coxless Fours,6
+Rowing,Coxed Quadruple Sculls,3
+Rowing,Single Pleasure Boat,1
+Rowing,French Skiffs,1
+Rowing,Lightweight Coxless Pairs,1
+Artistic Gymnastics,Team Portable Apparatus,2
+Artistic Gymnastics,Rope Climbing,4
+Artistic Gymnastics,Side Horse,2
+Artistic Gymnastics,Club Swinging,2
+Artistic Gymnastics,Tumbling,1
+Artistic Gymnastics,26th Federal Festival,1
+Artistic Gymnastics,Festival for Societies of the Seine,1
+Cycling Track,5 miles,3
+Cycling Track,Points Race,8
+Cycling Track,Keirin,6
+Cycling Track,500 metres Time Trial,2
+Cycling Track,Omnium,3
+Cycling Track,Madison,4
+Cycling Track,100 kilometres,3
+Cycling Track,100 miles,1
+Cycling Track,333⅓ metres Time Trial,1
+Cycling Track,12-Hours Race,1
+Cycling Track,⅓ mile,1
+Cycling Track,1 mile,1
+Cycling Track,Australian Team Pursuit,1
+Cycling Track,2 miles,1
+Cycling Track,25 kilometres,1
+Cycling Track,24-Hours Race,1
+Cycling Track,¼ mile,1
+Cycling Track,25 kilometres Motor-paced,1
+Cycling Track,National Team Sprint,1
+Cycling Track,½ mile,1
+Cycling Track,25 miles,1
+Cycling Track,⅔ mile,1
+Fencing,Single Sticks,1
+Wrestling,Middleweight B,1
+Wrestling,Middleweight A,1
+Wrestling,Unlimited Class,1
+Art Competitions,Sculpturing,8
+Art Competitions,Architecture,8
+Art Competitions,Unknown Event,2
+Art Competitions,Music,8
+Art Competitions,Painting,8
+Art Competitions,Literature,8
+Cycling Road,100 kilometres Team Time Trial,9
+Cycling Road,Individual Time Trial,7
+Artistic Swimming,Solo,3
+Artistic Swimming,Duet,9
+Judo,Open Class,5
+Sailing,5.5 metres,5
+Sailing,Skiff,6
+Sailing,One Person Heavyweight Dinghy,3
+Sailing,6 metres,9
+Sailing,8 metres,7
+Sailing,10 metres,2
+Sailing,12 metres,3
+Sailing,Open,1
+Sailing,½-1 Ton,1
+Sailing,1-2 Ton,1
+Sailing,7 metres,2
+Sailing,3-10 Ton,1
+Sailing,12 foot,1
+Sailing,6.5 metres,1
+Sailing,10-20 Ton,1
+Sailing,20+ Ton,1
+Sailing,18 foot,1
+Sailing,0-½ Ton,1
+Sailing,2-3 Ton,1
+Sailing,30 metres²,1
+Sailing,40 metres²,1
+Weightlifting,Heavyweight II,5
+Weightlifting,Heavyweight I,5
+Weightlifting,Unlimited,2
+Weightlifting,All-Around Dumbbell Contest,1
+Taekwondo,Finweight,2
+Archery,Au Chapelet,1
+Archery,Au Cordon Doré,1
+Archery,Sur La Perche À La Herse,1
+Archery,Sur La Perche À La Pyramide,1
+Archery,Championnat Du Monde,1
+Archery,Target Archery,1
+Archery,Pole Archery,1
+Archery,Double York Round,2
+Archery,Continental Style,1
+Archery,Double National Round,2
+Archery,French Championship,1
+Archery,Crossbows,1
+Archery,Double American Round,1
+Archery,Team Round,1
+Archery,Flight Shooting,1
+Archery,Double Columbia Round,1
+Golf,Driving Contest,1
+Golf,Putting Contest,1
+Bobsleigh,Four/Five,2
+Bobsleigh,Monobob,1
+Skeleton,Skeleton,8
+Canoe Sprint,Kayak Relay,1
+Canoe Sprint,Canadian Fours,1
+Triathlon,Olympic Distance,6
+Triathlon,Relay,1
+Roller Hockey,Roller Hockey,1
+Beach Volleyball,Beach Volleyball,7
+Figure Skating,Special Figures,1
+Rhythmic Gymnastics,Group,7
+Wushu,Sanshou (≤56 kilograms),1
+Wushu,Sanshou (≤85 kilograms),1
+Wushu,Sanshou (≤70 kilograms),1
+Wushu,Daoshu & Gunshu,1
+Wushu,Nanquan & Nangun,1
+Wushu,Taijiquan & Taijijuan,1
+Wushu,Nanquan & Nandao,1
+Wushu,Jianshu & Qiangshu,1
+Wushu,Sanshou (≤60 kilograms),1
+Wushu,Changquan,1
+Wushu,Sanshou (≤52 kilograms),1
+Karate,Kumite,1
+Karate,Kata,1
+Cross Country Skiing,10/10 kilometres Pursuit,1
+Cross Country Skiing,5/5 kilometres Pursuit,1
+Cross Country Skiing,30 kilometres Skiathlon,5
+Cross Country Skiing,10/15 kilometres Pursuit,3
+Cross Country Skiing,15 kilometres Skiathlon,5
+Cross Country Skiing,5/10 kilometres Pursuit,3
+Cross Country Skiing,18 kilometres,6
+Cross Country Skiing,3 × 5 kilometres Relay,5
+Freestyle Skiing,Halfpipe,7
+Freestyle Skiing,Team Aerials,1
+Freestyle Skiing,Slopestyle,3
+Freestyle Skiing,Big Air,2
+Freestyle Skiing,Ski Cross,4
+Freestyle Skiing,Ballet,2
+Speed Skating,Mass Start,2
+Speed Skating,Team Pursuit (6 laps),5
+Speed Skating,Allround,1
+Speed Skating,Team Pursuit (8 laps),5
+Luge,Team Relay,3
+Biathlon,7.5 kilometres Sprint,9
+Biathlon,12.5 kilometres Pursuit,6
+Biathlon,10 kilometres Pursuit,6
+Biathlon,12.5 kilometres Mass Start,5
+Biathlon,4 × 6 kilometres Relay,5
+Biathlon,15 kilometres Mass Start,5
+Biathlon,2 × 6 kilometres and 2 × 7.5 kilometres Relay,3
+Biathlon,3 × 7.5 kilometres Relay,1
+Snowboarding,Halfpipe,7
+Snowboarding,Cross,5
+Snowboarding,Slopestyle,3
+Snowboarding,Big Air,2
+Snowboarding,Parallel Giant Slalom,6
+Snowboarding,Parallel Slalom,1
+Snowboarding,Team Cross,1
+Equestrian Dressage,Hacks and Hunter Combined,1
+Marathon Swimming,10 kilometres Open Water,4
+Nordic Combined,Normal Hill / 10 km,4
+Nordic Combined,Large Hill / 10 km,4
+Ice Hockey,Ice Hockey Exhibition,1
+Short Track Speed Skating,"3,000 m",1
+Short Track Speed Skating,"2,000 metres Relay",1
+Cycling BMX Freestyle,Park,1
+Surfing,Shortboard,1
+Waterskiing,Tricks,1
+Waterskiing,Jumping,1
+Cycling BMX Racing,BMX,4
+Rugby Sevens,Rugby Sevens,2
+Skateboarding,Park,1
+Skateboarding,Street,1
+Softball,Softball,5
+Curling,Mixed Doubles,2
+Basque pelota,Mano,3
+Basque pelota,Pala Corta,1
+Basque pelota,Frontenis,2
+Basque pelota,Paleta Cuero,2
+Basque pelota,Paleta Goma,2
+Basque pelota,Cesta Punta,3
+Basque pelota,Two-Man Teams With Cesta,1
+Basque pelota,Blé,1
+Basque pelota,Pala,1
+Gliding,Gliding,1
+Polo,Polo,5
+Automobile Racing,Paris-Toulouse-Paris,1
+Equestrian Driving,Four-In-Hand Competition,1
+Tug-Of-War,Tug-Of-War,5
+Savate,Savate,1
+Canoe Marathon,Folding Kayak Singles,1
+Canoe Marathon,Folding Kayak Doubles,1
+3x3 Basketball,3x3 Basketball,1
+Military Ski Patrol,Military Ski Patrol,4
+Ice Stock Sport,Target Shooting,2
+Ice Stock Sport,Distance Shooting,2
+Glíma,Glíma,2
+Winter Pentathlon,Winter Pentathlon,1
+Alpinism,Alpinism,3
+Australian Rules Football,Australian Rules Football,1
+Pesäpallo,Pesäpallo,1
+Bandy,Bandy,1
+Lacrosse,Lacrosse,5
+Dogsled Racing,Dog Sled Racing,1
+Firefighting,Maneuvering,1
+Bicycle Polo,Bicycle Polo,1
+Kendo,Embusen,1
+Kendo,Renshu,1
+Kendo,Shiai - Red-White,1
+Kendo,Shiai - East-West,1
+Korfball,Korfball,2
+Kaatsen,Kaatsen,1
+Cricket,Cricket,1
+Motorboating,A-Class (Open),1
+Motorboating,B-Class (Under 60 feet),1
+Motorboating,C-Class,1
+Motorboating,Speed,1
+Motorboating,Endurance,1
+Motorboating,Enduance,1
+Motorboating,Endurance 10-15 m,1
+Lifesaving,Rapid Removal of a Manikin from Long Distance,1
+Lifesaving,300 metres with Current Rise of 50 metres with Manikin,1
+Lifesaving,200 metres in Swim Outfit with Current Rise of 50 metres with Manikin,1
+Lifesaving,Rapid Removal of a Manikin from Middle Distance,1
+Lifesaving,Retrieval by Hook,1
+Lifesaving,Sculling,1
+Ballooning,Longest distance travelled (#1),1
+Ballooning,Longest distance travelled (#2),1
+Ballooning,Longest distance travelled (#3),1
+Ballooning,Longest distance travelled (#4),1
+Ballooning,Longest time travelled (#1),1
+Ballooning,Longest time travelled (#2),1
+Ballooning,Longest time travelled (#3),1
+Ballooning,Longest time travelled (#4),1
+Ballooning,Greatest height achieved (#1),1
+Ballooning,Greatest height achieved (#2),1
+Ballooning,Greatest height achieved (#3),1
+Ballooning,Closest landing to target (#1),1
+Ballooning,Closest landing to target (#2),1
+Ballooning,Closest landing to target (#3),1
+Ballooning,Closest landing to target (#4),1
+Ballooning,Grand Prix de l'aéronautique,1
+Ballooning,Balloon inflation,1
+Ballooning,Ascension report,1
+Ballooning,Best photograph,1
+Ballooning,Kites (large),1
+Ballooning,Kites (medium),1
+Ballooning,Kites (small),1
+Boules,Jeu lyonnais,1
+Boules,Jeu de berges,1
+Fishing,Concours d'honneur,1
+Longue Paume,Partie à enlever,1
+Longue Paume,Partie à terrer,1
+Military Exercise,Overall,1
+Military Exercise,Preparatory Military Training,1
+Military Exercise,Complementary Military Training,1
+Military Exercise,Free Exercise,1
+Motorcycle Sports,Paris-Toulouse-Paris,1
+Canne De Combat,Canne de combat,1
+Skijoring,Ski Joring,1
+Aeronautics,Aeronautics,1
+American Football,American Football,2

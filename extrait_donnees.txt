@@ -1,0 +1,143 @@
+==> AWARDS.csv <==
+id_result,medal
+21,Bronze
+31,Silver
+33,Gold
+
+==> BELONGS_TO.csv <==
+country_noc,city
+GRE,Athina
+FRA,Paris
+USA,St. Louis
+
+==> CONTAINS.csv <==
+sport,discipline
+Athletics,100 metres
+Athletics,400 metres
+Athletics,800 metres
+
+==> GamesEdition.csv <==
+edition_id,edition,year,start_date,end_date,competition_date,edition_url,isHeld
+1,1896 Summer Olympics,1896, 6 April,15 April,6 – 13 April,/editions/1,
+2,1900 Summer Olympics,1900,,,14 May – 28 October,/editions/2,
+3,1904 Summer Olympics,1904,14 May,, 1 July – 26 November,/editions/3,
+
+==> HAS_RESULT.csv <==
+athlete_id,id_result,edition_athlete
+64710,1,5
+64756,2,5
+64808,3,5
+
+==> HOSTS.csv <==
+edition_id,city
+1,Athina
+2,Paris
+3,St. Louis
+
+==> INCLUDES_EVENT.csv <==
+edition_id,discipline
+5,100 metres
+5,400 metres
+5,800 metres
+
+==> MENTIONS_ATHLETE.csv <==
+id,athlete_id
+1418885092571766792,130576
+1418889364155904004,130576
+1418889348871770123,130576
+
+==> MENTIONS_DISCIPLINE.csv <==
+id,discipline
+1418889345558360068,Hockey
+1418889247164141570,Hockey
+1418888806816751625,Handball
+
+==> MENTIONS_SPORT.csv <==
+id,sport
+1418886894478270464,Artistic Gymnastics
+1418885092571766792,Weightlifting
+1418889378328465412,Tennis
+
+==> OWNS_RESULT.csv <==
+noc,id_result,edition_country
+USA,316835,1
+GRE,316836,1
+GER,316837,1
+
+==> PARTICIPATES_IN.csv <==
+country_noc,edition_id
+USA,1
+GRE,1
+GER,1
+
+==> PLAYS_IN.csv <==
+edition_id,athlete_id
+5,64710
+5,64756
+5,64808
+
+==> PLAYS_IN_DISCIPLINE.csv <==
+athlete_id,discipline
+64710,100 metres
+64756,400 metres
+64808,800 metres
+
+==> REPRESENTS.csv <==
+athlete_id,country_noc
+65649,BUL
+112510,RUS
+114973,QAT
+
+==> TAKES_PLACE_IN.csv <==
+edition_id,city
+1,Athina
+2,Paris
+3,St. Louis
+
+==> athlete.csv <==
+athlete_id,name,sex,born,height,weight,description,special_notes
+65649,Ivanka Bonova,Female,4 April 1949,166.0,55,Personal Best: 400 – 53.54 (1980).,
+112510,Nataliya Uryadova,Female,15 March 1977,184.0,70,,Listed in Olympians Who Won a Medal at the European Beach Volleyball Championships (1–0–0 2006 Den Haag gold)
+114973,Essa Ismail Rashed,Male,14 December 1986,165.0,55,Personal Best: 10000 – 27:20.97 (2006).,Listed in Olympians Who Won a Medal at the Asian Games (0–2–0 2006 Doha ATH silver: 10000 m; 2010 Guangzhou ATH silver: 10000 m)
+
+==> city.csv <==
+city
+Athina
+Paris
+St. Louis
+
+==> country.csv <==
+noc,country,country_flag_url
+AFG,Afghanistan,
+ALB,Albania,
+ALG,Algeria,
+
+==> discipline.csv <==
+discipline
+100 metres
+400 metres
+800 metres
+
+==> medal.csv <==
+value
+Gold
+Silver
+Bronze
+
+==> result.csv <==
+id_result,pos,isTeamSport,gold,silver,bronze,total
+1,DNS,False,,,,
+2,DNS,False,,,,
+3,3 h8 r1/2,False,,,,
+
+==> sport.csv <==
+sport
+Athletics
+Boxing
+Diving
+
+==> tweet.csv <==
+id,user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,retweets,favorites,is_retweet
+1418886894478270464,Cameron Hart,Australia,Football & Tennis Coach,2020-10-31 08:46:17,6.0,37.0,31.0,False,2021-07-24 10:52:51,All I can think of every time I watch the rings event #Tokyo2020 #ArtisticGymnastics #7Olympics #OlympicGames… https://t.co/cJaxEFnyzD,"['Tokyo2020', 'Artistic Gymnastics', '7Olympics', 'Olympic Games']",Twitter for iPhone,0.0,0.0,False
+1418885092571766792,Sab Joke H,India,Follows you,2020-09-05 19:50:35,107.0,88.0,102.0,False,2021-07-24 10:45:42,#Tokyo2020 #Olympics|#MirabaiChanu|#Weightlifting|Women Empowerment|REAL                         Vs… https://t.co/XLsJb2RH76,"['Tokyo2020', 'Olympics', 'Mirabai Chanu', 'Weightlifting']",Twitter for Android,0.0,0.0,False
+1418889378328465412,The Field,Where sport happens.,"Game-changing sports coverage in India. Part of @scroll_in. RTs are not endorsements, they are meant to encourage healthy discussion.",2016-05-17 04:19:10,20630.0,602.0,534.0,True,2021-07-24 11:02:44,"#Tokyo2020 #Tennis |A win to remember for @nagalsumit, the last Indian to qualify for the Tokyo #Olympics.… https://t.co/Awsm8muQyB","['Tokyo2020', 'Tennis', 'Olympics']",TweetDeck,0.0,0.0,False
