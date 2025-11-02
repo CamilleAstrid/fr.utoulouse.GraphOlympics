@@ -573,6 +573,7 @@ RETURN a.name AS name ;
 ```
 >[!NOTE]
 ><> renvoie l'inégalité.
+
 >[!WARNING]
 > La commande précédente ne peut pas être exécutée mais elle sera applicable une fois le modèle complet généré.
 
@@ -871,6 +872,7 @@ Puis les résultats ont été copiés et reformaté pour une meilleure lisibilit
 | 1              | Athina    |
 | 2              | Paris     |
 | 3              | St. Louis |
+
 
 
 
