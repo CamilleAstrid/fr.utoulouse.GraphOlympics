@@ -274,7 +274,7 @@ Nous allons indiquer la ville concernée par la journée d'épreuve (non juste l
 
 Ci-dessous, un affichage du modèle plus graphique :
 
-<img src="Modelisation.png">
+<img src="pictures/Modelisation.png">
 
 # Importation des données
 
@@ -426,17 +426,17 @@ Par souci de temps, nous allons commencer par traiter un modèle avant de géné
 
 Le modèle attendu étant le suivant :
 
-<img src="Modelisation.png">
+<img src="pictures/Modelisation.png">
 
 Le modèle qui sera importé et testé est le suivant :
 
-<img src="newModelisation.png">
+<img src="pictures/newModelisation.png">
 
 Les relations *HOSTS* et *TAKES_PLACE_IN* semblent redondantes mais sont conservées pour une éventuelle amélioration du modèle avec la création de *EventSession*.
 
 Les données sont donc chargées comme ci-dessous.
 
-<img src="Model_before_import.png">
+<img src="pictures/Model_before_import.png">
 
 Les relations ont été adaptées afin de pouvoir transmettre une partie de l'information initialement prévue.
 
@@ -646,25 +646,25 @@ L'ensemble des requêtes sont disponibles dans les fichiers Visualisation_cypher
 Ci-dessous un exemple des résultats que l'on peut obtenir avec l'athèlte *Raman Piatrushenka*...
 
 **nb_post** :
-<img src="Raman Piatrushenka_tweet.png">
+<img src="pictures/Raman Piatrushenka_tweet.png">
 
 **graphique_medal** :
 
 * section *nb_medal*
-<img src="Raman Piatrushenka_nb_medal.png">
+<img src="pictures/Raman Piatrushenka_nb_medal.png">
 
 * section *percent_medal*
-<img src="Raman Piatrushenka_percent_medal_2004.png">
-<img src="Raman Piatrushenka_percent_medal_2008.png">
-<img src="Raman Piatrushenka_percent_medal_2012.png">
+<img src="pictures/Raman Piatrushenka_percent_medal_2004.png">
+<img src="pictures/Raman Piatrushenka_percent_medal_2008.png">
+<img src="pictures/Raman Piatrushenka_percent_medal_2012.png">
 
 **discipline** :
-<img src="Raman Piatrushenka_nb_discipline.png">
+<img src="pictures/Raman Piatrushenka_nb_discipline.png">
 
 **sex_percent** :   
-<img src="Raman Piatrushenka_percent_sexe_2004.png">
-<img src="Raman Piatrushenka_percent_sexe_2008.png">
-<img src="Raman Piatrushenka_percent_sexe_2012.png">
+<img src="pictures/Raman Piatrushenka_percent_sexe_2004.png">
+<img src="pictures/Raman Piatrushenka_percent_sexe_2008.png">
+<img src="pictures/Raman Piatrushenka_percent_sexe_2012.png">
 
 # Extrait des données utilisées
 
@@ -872,6 +872,7 @@ Puis les résultats ont été copiés et reformaté pour une meilleure lisibilit
 | 1              | Athina    |
 | 2              | Paris     |
 | 3              | St. Louis |
+
 
 
 
